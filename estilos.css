@@ -39,3 +39,55 @@
     margin-left: 10px;
   }
   
+  .iconos {
+    background: #c1c1c1;
+    height: 15px;
+    width: 40px;
+    position: absolute;
+    right: 20px;
+  }
+  
+  header .hero {
+    background: #ffd578;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+    gap: 60px;
+  }
+  
+  .cuadro-izq {
+    background: #ffc65b;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .texto-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  
+  .texto-hero .linea {
+    height: 12px;
+    background: white;
+    margin: 10px 0;
+    width: 400px;
+  }
+  
+  .texto-hero .linea-color {
+    background: #ffc65b;
+    width: 220px;
+    height: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .texto-hero .corta {
+    width: 250px;
+  }
+  
+  .texto-hero .larga {
+    width: 450px;
+  }
+
